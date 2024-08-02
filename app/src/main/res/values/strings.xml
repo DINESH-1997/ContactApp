@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="allow_access_to_contacts">Allow access to contacts</string>
+    <string name="app_settings">App Settings</string>
+    <string name="ok">OK</string>
+    <string name="unknown">Unknown</string>
+    <string name="contacts">Contacts</string>
+</resources>
